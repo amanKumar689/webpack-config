@@ -3,7 +3,7 @@ import List from './List'
 const App = () => {
     return (
         <div className={'App'}>
-            I think we got it yrr
+          <h2> My favourate Learning languages : -- </h2>
             <List />
         </div>
     )
